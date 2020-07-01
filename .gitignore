@@ -1,5 +1,5 @@
-target/*
-.project
+target/
+*.project
 
 # Compiled class file
 *.class
